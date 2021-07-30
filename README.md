@@ -7,10 +7,11 @@ I'm currently working on personal projects to improve my knowledge and trying to
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilorsv14&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<ul>
-  <li>:seedling: I’m learnig HTML, CSS, JAVASCRIPT</li>
-  <li> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png" width='20' height="20"> How to reach me: @murilorrr</li>
- </ul>
+<div>  
+    <li>:seedling: I’m learnig HTML, CSS, JAVASCRIPT </li>
+    <li> 📮 How to reach me: linkedin/murilorrr or @murilorrr </li>
+</div>
+  
 <p align="left">
   <img align="center" alt="ECMAscript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
