@@ -2,7 +2,7 @@ Welcome <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4
 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies. :wink:
  
 <div>  
-    <li>:seedling: I’m learnig React, Redux and SCSS</li>
+    <li>:seedling: I'm learning back-end full time, I consider myself a generalist and I will see the world </li>
     <li> 📮 How to reach me: linkedin/murilorrr or @murilorrr </li>
 </div><br>
   
