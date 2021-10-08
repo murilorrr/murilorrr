@@ -6,6 +6,14 @@ I'm currently working on personal projects to improve my knowledge and trying to
     <li> 📮 How to reach me: linkedin/murilorrr or @murilorrr </li>
 </div><br>
 
+
+<div>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+  <a href="https://github.com/murilorsv14">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=murilorsv14&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilorsv14&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 <div style="display: inline_block"><br>
   <i class="devicon-html5-plain colored"></i>
   <img align="center" alt="ewe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,13 +29,6 @@ I'm currently working on personal projects to improve my knowledge and trying to
   <img align="center" alt="ewe-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>  
 
-<div>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-  <a href="https://github.com/murilorsv14">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=murilorsv14&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilorsv14&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
-https://murilorsv14.github.io/
 # Murilo-Ribeiro
 readME
