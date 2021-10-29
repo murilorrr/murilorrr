@@ -6,6 +6,8 @@ I'm currently working on personal projects to improve my knowledge and trying to
     <li> 📮 How to reach me: linkedin/murilorrr or @murilorrr </li>
 </div><br>
 
+Para informações curriculares e contato, acesse: [![Linkedin Badge](https://img.shields.io/badge/-murilorsv14-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilorrr/)](https://www.linkedin.com/in/murilorrr/) [![Gmail Badge](https://img.shields.io/badge/-murilorsv14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murilorsv14@gmail.com)](mailto:murilorsv14@gmail.com)
+
 
 <div>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
@@ -13,6 +15,8 @@ I'm currently working on personal projects to improve my knowledge and trying to
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=murilorsv14&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilorsv14&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+### My Skills
 
 <div style="display: inline_block"><br>
   <i class="devicon-html5-plain colored"></i>
@@ -32,3 +36,6 @@ I'm currently working on personal projects to improve my knowledge and trying to
  <br>
  
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murilorsv14&theme=onedark" alt="andersonmalves" /></a> </p>
+
+
+:construction: Ainda trabalhando nesta página ...
