@@ -3,6 +3,10 @@ I'm currently working on personal projects to improve my knowledge and trying to
 
 [![trophy](https://github-profile-trophy.vercel.app/murilorsv14=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=murilorsv14)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andersonmalves" alt="andersonmalves" /></a> </p>
+
  
 <div>  
     <li>:seedling: I'm learning back-end full time, I consider myself a generalist and I will see the world </li>
