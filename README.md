@@ -1,9 +1,6 @@
 Welcome <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width='20' height="20"><br>
 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies. :wink:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murilorsv14&theme=onedark" alt="andersonmalves" /></a> </p>
-
- 
 <div>  
     <li>:seedling: I'm learning back-end full time, I consider myself a generalist and I will see the world </li>
     <li> 📮 How to reach me: linkedin/murilorrr or @murilorrr </li>
@@ -31,3 +28,5 @@ I'm currently working on personal projects to improve my knowledge and trying to
   <img align="center" alt="ewe-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="ewe-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
+ 
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murilorsv14&theme=onedark" alt="andersonmalves" /></a> </p>
