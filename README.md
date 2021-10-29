@@ -1,7 +1,7 @@
 Welcome <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width='20' height="20"><br>
 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies. :wink:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murilorsv14" alt="andersonmalves" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murilorsv14&theme=onedark" alt="andersonmalves" /></a> </p>
 
  
 <div>  
