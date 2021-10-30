@@ -11,17 +11,18 @@ For curriculum and contact information, visit: [![Linkedin Badge](https://img.sh
 
 <div>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-  <a href="https://github.com/murilorsv14">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=murilorsv14&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilorsv14&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-Actually learning **Javascript/Typescript**, **Docker**, **MySQL**, **MongoDB** and **Node**;
-
+ <br>
+<div align='center' >
+Actually learning **ReactJS**, **Javascript/Typescript**, **Docker**, **MySQL**, **Python**, **MongoDB** and **Node**;
 </div>
+<br>
 
-<p align="center">
+<p align='center' >
   <img src="https://badges.aleen42.com/src/javascript.svg">
+  <img src="https://badges.aleen42.com/src/react.svg">
   <img src="https://badges.aleen42.com/src/redux.svg"> 
   <img src="https://badges.aleen42.com/src/node.svg"> 
   <img src="https://badges.aleen42.com/src/docker.svg"> 
