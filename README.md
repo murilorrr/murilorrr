@@ -1,4 +1,4 @@
-Welcome <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width='20' height="20"><br>
+## Welcome, I'm Murilo <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width='20' height="20"><br>
 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies. :wink:
 
 <div>  
@@ -39,4 +39,5 @@ Actually learning **ReactJS**, **Javascript/Typescript**, **Docker**, **MySQL**,
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murilorsv14&theme=onedark" alt="murilorsv14" /></a> </p>
 
 
-:construction: Ainda trabalhando nesta página ...
+:construction: 
+Still working on this page...
