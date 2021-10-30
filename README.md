@@ -16,26 +16,26 @@ For curriculum and contact information, visit: [![Linkedin Badge](https://img.sh
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilorsv14&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### My Skills
+Actually learning **Javascript/Typescript**, **Docker**, **MySQL**, **MongoDB** and **Node**;
 
-<div style="display: inline_block"><br>
-  <i class="devicon-html5-plain colored"></i>
-  <img align="center" alt="ewe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ewe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ewe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="ewe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="ewe-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="ewe-VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="ewe-Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
-  <img align="center" alt="ewe-Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
-  <img align="center" alt="ewe-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="ewe-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
-    
- <br>
+
+<p align="center">
+  <img src="https://badges.aleen42.com/src/javascript.svg">
+  <img src="https://badges.aleen42.com/src/redux.svg"> 
+  <img src="https://badges.aleen42.com/src/node.svg"> 
+  <img src="https://badges.aleen42.com/src/docker.svg"> 
+  <img src="https://badges.aleen42.com/src/typescript.svg"> 
+  <img src="https://badges.aleen42.com/src/python.svg"> 
+<br>
+</p>
+
+
+ <p></p> 
  
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murilorsv14&theme=onedark" alt="andersonmalves" /></a> </p>
+## **Github Trophies**
+ 
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murilorsv14&theme=onedark" alt="murilorsv14" /></a> </p>
 
 
 :construction: Ainda trabalhando nesta página ...
