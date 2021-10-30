@@ -6,7 +6,7 @@ I'm currently working on personal projects to improve my knowledge and trying to
     <li> 📮 How to reach me: linkedin/murilorrr or @murilorrr </li>
 </div><br>
 
-Para informações curriculares e contato, acesse: [![Linkedin Badge](https://img.shields.io/badge/-murilorsv14-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilorrr/)](https://www.linkedin.com/in/murilorrr/) [![Gmail Badge](https://img.shields.io/badge/-murilorsv14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murilorsv14@gmail.com)](mailto:murilorsv14@gmail.com)
+For curriculum and contact information, visit: [![Linkedin Badge](https://img.shields.io/badge/-murilorsv14-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilorrr/)](https://www.linkedin.com/in/murilorrr/)
 
 
 <div>
