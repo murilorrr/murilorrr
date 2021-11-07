@@ -48,11 +48,10 @@
 For curriculum and contact information, visit: [![Linkedin Badge](https://img.shields.io/badge/-murilorsv14-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilorrr/)](https://www.linkedin.com/in/murilorrr/)
 
 
-<div>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=murilorsv14&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilorsv14&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<div >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilorsv14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilorsv14&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
+</div>	
  <br>
 
 
