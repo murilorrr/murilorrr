@@ -2,12 +2,12 @@
 
 <h4> About me: </h2>
 
-- #### :purple_heart: Dev, almost Engineer and Gamer :green_heart: :rocket: twitch.tv/devmozao :fire: :skull_and_crossbones: INTP & Chaotic Good :game_die: :space_invader: Human after all :alien:
+- #### :purple_heart: Dev, almost Engineer and Gamer :green_heart: :rocket: linkedin.com/in/murilorrr :fire: :skull_and_crossbones: INTP & Chaotic Good :game_die: :space_invader: Human after all :alien:
 
 - ##### :wink: I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
 - ##### 👨‍💻 learning MySQL, MongoDB and NodeJs
 - #####  <li>:seedling: I consider myself a generalist and I will see the world </li>
-- #####  <li> 📮 How to reach me: linkedin/murilorrr or @murilorrr </li>
+- #####  <li> 📮 How to reach me: @murilorrr </li>
 <!-- - ##### [Mage](https://twitter.com/magelibORG) [Dev](https://github.com/isabellaherman/MageLib) [🧙](https://www.twitch.tv/isabellaherman) -->
 	
 <h2  style="font-weight: bold">🛠️ Tech Stack</h2>
