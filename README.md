@@ -1,5 +1,9 @@
 ## Welcome, I'm Murilo <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width='20' height="20">
 
+<h4> About me: </h2>
+
+- #### :purple_heart: Dev, almost Engineer and Gamer :green_heart: :rocket: twitch.tv/devmozao :fire: :skull_and_crossbones: INTP & Chaotic Good :game_die: :space_invader: Human after all :alien:
+
 - ##### :wink: I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
 - ##### 👨‍💻 learning MySQL, MongoDB and NodeJs
 - #####  <li>:seedling: I consider myself a generalist and I will see the world </li>
@@ -48,6 +52,8 @@
 </div>
 
 For curriculum and contact information, visit: [![Linkedin Badge](https://img.shields.io/badge/-murilorsv14-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilorrr/)](https://www.linkedin.com/in/murilorrr/)
+
+
 
 
 <div >
