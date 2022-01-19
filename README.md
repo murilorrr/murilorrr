@@ -46,6 +46,8 @@
 -  ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 	
 - ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+	
+- ![Express](https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
   
 
