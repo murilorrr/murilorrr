@@ -7,7 +7,7 @@
 - ##### :wink: I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
 - ##### 👨‍💻 learning NodeJs, express, TypeScript and design patterns.
 - #####  <li>:seedling: I consider myself a generalist and I will see the world. </li>
-- #####  <li> 📮 How to reach me: @murilorrr </li>
+- #####  <li> 📮 How to reach me: murilorsv14@gmail.com </li>
 <!-- - ##### [Mage](https://twitter.com/magelibORG) [Dev](https://github.com/isabellaherman/MageLib) [🧙](https://www.twitch.tv/isabellaherman) -->
 	
 <h2  style="font-weight: bold">🛠️ Tech Stack</h2>
