@@ -53,7 +53,7 @@
 
 </div>
 
-For curriculum and contact information, visit: [![Linkedin Badge](https://img.shields.io/badge/-murilorsv14-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilorrr/)](https://www.linkedin.com/in/murilorrr/)
+For curriculum and contact information, visit: [![Linkedin Badge](https://img.shields.io/badge/-murilorrr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilorrr/)](https://www.linkedin.com/in/murilorrr/)
 
 
 
