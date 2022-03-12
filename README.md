@@ -5,7 +5,7 @@
 - #### :purple_heart: Dev and Gamer :green_heart: :rocket: engenieer :fire: :skull_and_crossbones: INTP & Chaotic Good :game_die: :space_invader: Human after all :alien:
 
 - ##### :wink: I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
-- ##### 👨‍💻 learning TypeScript and SOLID.
+- ##### 👨‍💻 learning Java.
 - #####  <li>:seedling: I consider myself a generalist and I will see the world. </li>
 - #####  <li> 📮 How to reach me: murilorsv14@gmail.com or https://www.linkedin.com/in/murilorrr/ </li>
 <!-- - ##### [Mage](https://twitter.com/magelibORG) [Dev](https://github.com/isabellaherman/MageLib) [🧙](https://www.twitch.tv/isabellaherman) -->
@@ -24,7 +24,7 @@
 
 -  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
--  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+-  ![HTML](https://img.shieldSOLIDs.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 	
 -  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
