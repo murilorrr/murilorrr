@@ -22,11 +22,7 @@
 
   
 
--  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-
--  ![HTML](https://img.shieldSOLIDs.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-	
--  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp
 
 -  ![React + Hooks](https://camo.githubusercontent.com/4d157984d8f380b75f34b43d817cfea2449fa369b68190c95c0469368099123c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52454143542b484f4f4b532d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b266c6f676f57696474683d3230)&nbsp;
 	
