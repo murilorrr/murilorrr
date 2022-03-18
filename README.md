@@ -22,11 +22,22 @@
 
   
 
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+	
+ ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+	
+ ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=red)&nbsp;
+	
+
+ ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+	
+ ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+	
+ ![Express](https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
   ![React + Hooks](https://camo.githubusercontent.com/4d157984d8f380b75f34b43d817cfea2449fa369b68190c95c0469368099123c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52454143542b484f4f4b532d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b266c6f676f57696474683d3230)&nbsp;
 	
-  ![Redux](https://camo.githubusercontent.com/21f7fb67d2c607027a07ac7a39f8cd713e150adafe9714862864d559ccb66b72/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52454455582d3736344142433f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465266c6f676f57696474683d3230)	
+  ![Redux](https://camo.githubusercontent.com/21f7fb67d2c607027a07ac7a39f8cd713e150adafe9714862864d559ccb66b72/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52454455582d3736344142433f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465266c6f676f57696474683d3230)&nbsp;	
 
 
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -38,14 +49,7 @@
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 	
  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-	
- ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-	
- ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-	
- ![Express](https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
   
 
