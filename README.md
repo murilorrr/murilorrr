@@ -69,6 +69,7 @@ For curriculum and contact information, visit: [![Linkedin Badge](https://img.sh
  
  <p align="left"> <a href="https://github.com/murilorsv14/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murilorsv14&theme=juicyfresh" alt="murilorsv14 trophy" /></a> </p>
 
+![Profile views](https://gpvc.arturio.dev/murilorsv14)
 
 :construction: 
 Still working on this page...
