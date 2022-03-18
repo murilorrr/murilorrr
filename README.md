@@ -49,6 +49,12 @@
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 	
  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+	
+![Sequelize](https://img.shields.io/badge/Sequelize-4169E1?style=for-the-badge&logo=sequelize&logoColor=black)&nbsp;
+	
+![Heroku](https://img.shields.io/badge/Heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=black)&nbsp;
+	
+<!--  ![](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=&logoColor=black)&nbsp; -->
 
 
   
