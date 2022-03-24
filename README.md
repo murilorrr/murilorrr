@@ -77,7 +77,9 @@ For curriculum and contact information, visit: [![Linkedin Badge](https://img.sh
  
 ## **Github Trophies**
  
- <p align="left"> <a href="https://github.com/murilorsv14/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murilorsv14&theme=juicyfresh" alt="murilorsv14 trophy" /></a> </p>
+<h3 align="center">GitHub Trophies</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=murilorsv14&theme=onedark&column=9&margin-w=2&margin-h=2&no-frame=true)](https://github.com/murilorsv14/github-profile-trophy)
 
 ![Profile views](https://gpvc.arturio.dev/murilorsv14)
 
