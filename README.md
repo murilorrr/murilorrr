@@ -28,6 +28,7 @@
 	
  ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=red)&nbsp;
 	
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 	
@@ -50,7 +51,7 @@
 	
  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 	
-![Sequelize](https://img.shields.io/badge/Sequelize-4169E1?style=for-the-badge&logo=sequelize&logoColor=black)&nbsp;
+![Sequelize](https://img.shields.io/badge/Sequelize-4169E1?style=for-the-badge&logo=sequelize&logoColor=yellow)&nbsp;
 	
 ![Heroku](https://img.shields.io/badge/Heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=black)&nbsp;
 	
