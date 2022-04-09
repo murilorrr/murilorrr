@@ -2,11 +2,11 @@
 
 <h4> About me: </h2>
 
-- #### :purple_heart: Dev and Gamer :green_heart: :rocket: engenieer :fire: :skull_and_crossbones: INTP & Chaotic Good :game_die: :space_invader: Human after all :alien:
+- #### :purple_heart: Web Developer:computer:, Gamer:game_die: and volleyball player🏐 :fire: INTP  :space_invader: Human after all :alien::rocket:
 
 - ##### :wink: I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
 - ##### 👨‍💻 learning Java and OOP.
-- #####  <li>:seedling: I consider myself a generalist and I will see the world. </li>
+- #####  <li>:seedling: I consider myself a obstinate by knowledge, adamantly curious and I will see the world. </li>
 - #####  <li> 📮 How to reach me: murilorsv14@gmail.com or https://www.linkedin.com/in/murilorrr/ </li>
 <!-- - ##### [Mage](https://twitter.com/magelibORG) [Dev](https://github.com/isabellaherman/MageLib) [🧙](https://www.twitch.tv/isabellaherman) -->
 	
