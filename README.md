@@ -2,7 +2,7 @@
 
 <h4> About me: </h2>
 
-- #### :purple_heart: Web Developer:computer:, Gamer:game_die: and volleyball player🏐 :fire: INTP  :space_invader: Human after all :alien::rocket:
+- #### :purple_heart: Web Developer:computer:, E-Gamer:game_die: and volleyball player🏐 :fire: INTP  :space_invader: Human after all :alien::rocket:
 
 - ##### :wink: I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
 - ##### 👨‍💻 learning Java and microservices.
