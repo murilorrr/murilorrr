@@ -4,8 +4,8 @@
 
 - #### :purple_heart: Web Developer:computer:, E-Gamer:game_die: and volleyball player🏐 :fire: INTP  :space_invader: Human after all :alien::rocket:
 
-- ##### :wink: I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
-- ##### 👨‍💻 learning Java and microservices.
+- ##### :wink: I'm currently working at Full Stack Developer at SCC4 and trying to learn new technologies.
+- ##### 👨‍💻 learning microservices.
 - #####  <li>:seedling: I consider myself a obstinate by knowledge, adamantly curious and I will climb the world. </li>
 - #####  <li> 📮 How to reach me: murilorsv14@gmail.com or https://www.linkedin.com/in/murilorrr/ </li>
 	
@@ -80,7 +80,7 @@ For curriculum and contact information, visit: [![Linkedin Badge](https://img.sh
 <h3 align="center">GitHub Trophies</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=murilorsv14&theme=onedark&column=9&margin-w=2&margin-h=2&no-frame=true)](https://github.com/murilorsv14/github-profile-trophy)
-
+How to reach me: murilorsv14@gmail.com or https://www.linkedin.com/in/murilorrr/ </li>
 ![Profile views](https://gpvc.arturio.dev/murilorsv14)
 
 :construction: 
