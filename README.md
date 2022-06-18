@@ -76,8 +76,6 @@ For curriculum and contact information, visit: [![Linkedin Badge](https://img.sh
  <p></p> 
  
 ## **Github Trophies**
- 
-<h3 align="center">GitHub Trophies</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=murilorsv14&theme=onedark&column=9&margin-w=2&margin-h=2&no-frame=true)](https://github.com/murilorsv14/github-profile-trophy)
 How to reach me: murilorsv14@gmail.com or https://www.linkedin.com/in/murilorrr/ </li>
