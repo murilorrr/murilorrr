@@ -4,7 +4,7 @@
 
 - #### :purple_heart: Web Developer:computer:, E-Gamer:game_die: and volleyball player🏐 :fire: INTP  :space_invader: Human after all :alien::rocket:
 
-- ##### :wink: I'm currently working as Full Stack Developer at SCC4 and trying to learn new technologies.
+- ##### :wink: I'm working as a Full Stack Developer at SCC4 and trying to learn new technologies.
 - ##### 👨‍💻 learning microservices and Event-Driven Architecture.
 - #####  <li>:seedling: I consider myself a obstinate by knowledge, adamantly curious and I will climb the world. </li>
 - #####  <li> 📮 How to reach me: murilorsv14@gmail.com or https://www.linkedin.com/in/murilorrr/ </li>
