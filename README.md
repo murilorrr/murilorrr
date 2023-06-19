@@ -67,8 +67,8 @@ For curriculum and contact information, visit: [![Linkedin Badge](https://img.sh
 
 
 <div >
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=murilorsv14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilorsv14&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=murilorrr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilorrr&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
 </div>	
  <br>
 
@@ -77,10 +77,10 @@ For curriculum and contact information, visit: [![Linkedin Badge](https://img.sh
  
 ## **Github Trophies**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=murilorsv14&theme=onedark&column=9&margin-w=2&margin-h=2&no-frame=true)](https://github.com/murilorsv14/github-profile-trophy)
-How to reach me: murilorsv14@gmail.com or https://www.linkedin.com/in/murilorrr/ </li>
+[![trophy](https://github-profile-trophy.vercel.app/?username=murilorrr&theme=onedark&column=9&margin-w=2&margin-h=2&no-frame=true)](https://github.com/murilorrr/github-profile-trophy)
+How to reach me: murilorrr@gmail.com or https://www.linkedin.com/in/murilorrr/ </li>
 
-![Profile views](https://gpvc.arturio.dev/murilorsv14)
+![Profile views](https://gpvc.arturio.dev/murilorrr)
 
 :construction: 
 Still working on this page...
