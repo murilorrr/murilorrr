@@ -80,7 +80,7 @@ For curriculum and contact information, visit: [![Linkedin Badge](https://img.sh
 [![trophy](https://github-profile-trophy.vercel.app/?username=murilorrr&theme=onedark&column=9&margin-w=2&margin-h=2&no-frame=true)](https://github.com/murilorrr/github-profile-trophy)
 How to reach me: murilorrr@gmail.com or https://www.linkedin.com/in/murilorrr/ </li>
 
-![Profile views](https://gpvc.arturio.dev/murilorrr)
+![](https://komarev.com/ghpvc/?username=murilorrr&label=PROFILE+VIEWS)
 
 :construction: 
 Still working on this page...
