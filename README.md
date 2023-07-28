@@ -4,7 +4,7 @@
 
 - #### :purple_heart: Web Developer:computer:, E-Gamer:game_die: and volleyball player🏐 :fire: INTP  :space_invader: Human after all :alien::rocket:
 
-- ##### :wink: I'm Open to Work.
+- ##### :wink: Current work in Shift inc.
 - ##### 👨‍💻 learning microservices and Azure cloud
 - #####  <li>😋 I will devour all the knowledge I can </li>
 - #####  <li> 📮 How to reach me: murilorsv14@gmail.com or https://www.linkedin.com/in/murilorrr/ </li>
