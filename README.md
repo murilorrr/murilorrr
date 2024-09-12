@@ -5,7 +5,7 @@
 - #### :purple_heart: Web Developer:computer:, E-Gamer:game_die: and volleyball player🏐 :fire: INTP  :space_invader: Human after all :alien::rocket:
 
 - ##### :wink: Current work in Bemobi.
-- ##### 👨‍💻 learning microservices and Azure cloud
+- ##### 👨‍💻 learning GO and Kotlin
 - #####  <li>😋 I will devour all the knowledge I can </li>
 - #####  <li> 📮 How to reach me: murilorsv14@gmail.com or https://www.linkedin.com/in/murilorrr/ </li>
 	
